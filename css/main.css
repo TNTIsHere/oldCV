@@ -1,0 +1,56 @@
+body{
+	background-color: rgb(32, 31, 31);
+	margin: 0;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.navbar{
+	background-color: rgb(109, 221, 184);
+	width: 100%;
+	position: fixed;
+}
+
+.navbar ul{
+	list-style-type: none;
+	padding: 0 20% 0 20%;
+}
+
+.navbar ul li{
+	color: black;
+	display: inline-block;
+	padding: 0 60px 0 0;
+	font-size: 1.6em;
+}
+
+.navbar ul li a{
+	text-decoration: none;
+	color: rgb(19, 18, 18);
+}
+
+.navbar ul li a:hover{
+	text-decoration: underline;
+	text-decoration-color: rgb(0, 0, 0);
+}
+
+.footer{
+	background-color: rgb(59, 54, 54);
+}
+
+.footer ul{
+	font-size: 1.2em;
+	text-align: center;
+	list-style-type: none;
+}
+
+.footer ul li{
+	color: #ffffff;
+}
+
+.footer ul li a{
+	color: rgb(109, 221, 184);
+}
+
+.footer ul li a:hover{
+	text-decoration: underline;
+	text-decoration-color: black;
+}

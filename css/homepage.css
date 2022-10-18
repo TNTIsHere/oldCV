@@ -1,0 +1,36 @@
+.infoBox{
+	display: inline-block;
+	width: 50%;
+	padding-left: 250px;
+}
+
+#infoTitle{
+	color: white;
+	font-size: 40px;
+}
+
+#infosubHeading{
+	color: white;
+	font-size: 22px;
+}
+
+#infosubHeading a{
+	color: rgb(109, 221, 184);;
+}
+
+#infosubHeading a:hover{
+	text-decoration: underline;
+	text-decoration-color: black;
+}
+
+#infoParagraph{
+	color: white;
+	font-size: 18px;
+}
+
+.infoPicture{
+	padding: 100px 100px 0 100px;
+	width: 250px;
+	height: 400px;
+	display: inline-block;
+}

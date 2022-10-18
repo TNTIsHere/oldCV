@@ -1,0 +1,29 @@
+.educationBox{
+    padding-top: 100px;
+    text-align: center;
+    margin: 0 25% 0 25%
+}
+
+#educationParagraph{
+    font-size: 1.2em;
+    color: white;
+}
+
+.educationList{
+    list-style-type: none;
+    font-size: 1.3em;
+    color: white;
+    margin-top: 60px;
+}
+
+.educationList li{
+    text-align: center;
+}
+
+.educationList li a{
+    color: rgb(109, 221, 184);;
+}
+
+.educationList li a:hover{
+    text-decoration-color: black;
+}

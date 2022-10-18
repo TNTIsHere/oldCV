@@ -1,0 +1,27 @@
+.workexperienceBorder{
+	padding: 100px 0 0 0;
+	width: 60%;
+	display: block;
+	color: white;
+	margin: 0 15% 0 15%
+}
+
+.workexperienceBorder ul{
+	list-style-type: none;
+}
+
+.workexperienceBorder ul a{
+	color: rgb(109, 221, 184);;
+}
+
+.workexperienceBorder ul a:hover{
+	text-decoration-color: black;
+}
+
+#listElement1{
+	font-size: 1.5em;
+}
+
+#listParagraph1{
+	font-size: 1.2em;
+}
